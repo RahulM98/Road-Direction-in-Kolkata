@@ -1,5 +1,8 @@
 # Road-Direction-in-Kolkata
+
 Road Direction using Dijkstra's Shortest Path Algorithm in C
+
+  It takes user's current location and destination as user input and suggests the shortest path along with the road names and turning details. It also helps users, providing suggestions at the time of typing a location name to avoid spelling mistake.
 
 Available Locations :-
 1.	ULTADANGA FOOTBRIDGE
